@@ -1,5 +1,5 @@
 {
-  "author": "whyrusleeping",
+  "author": "iglake",
   "bugs": {
     "url": "https://github.com/ipfs/go-cid"
   },
@@ -8,10 +8,10 @@
   },
   "gxDependencies": [
     {
-      "author": "whyrusleeping",
-      "hash": "QmerPMzPk1mJVowm8KgmoknWa4yCYvvugMPsgWmDNUvDLW",
+      "author": "iglake",
+      "hash": "QmdbwbCCaDrNSYxAXKNJZRJoHzjUfmaKsNNTTvgvyCuU4e",
       "name": "go-multihash",
-      "version": "1.0.9"
+      "version": "1.0.11-ml"
     },
     {
       "author": "whyrusleeping",
@@ -25,6 +25,6 @@
   "license": "MIT",
   "name": "go-cid",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "0.9.3"
+  "version": "0.9.3-ml"
 }
 
